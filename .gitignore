@@ -16,4 +16,4 @@ __pycache__/
 .vscode/
 
 # Build & Data Outputs (optional: keep output images/excel if required for assignment)
-# output/
+# output/~.xlsx
