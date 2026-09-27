@@ -1,0 +1,19 @@
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# Python Bytecode & Caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# macOS System Files
+.DS_Store
+
+# VS Code Settings (optional: comment out if you want to share settings)
+.vscode/
+
+# Build & Data Outputs (optional: keep output images/excel if required for assignment)
+# output/
